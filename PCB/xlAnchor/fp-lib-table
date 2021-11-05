@@ -1,0 +1,3 @@
+(fp_lib_table
+  (lib (name x-tech-logo)(type KiCad)(uri ${KIPRJMOD}/lib/x-tech-logo)(options "")(descr ""))
+)
